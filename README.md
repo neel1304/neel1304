@@ -1,7 +1,7 @@
 
 ### I'm Nilargha
 
-- 🔭 I’m currently working at OpenText.
+- 🔭 I’m currently working at InterviewBit.
 - 🌱 I’m currently learning React.JS
 - 💬 Ask me about OOPS,Android,Data Science, Web Development.
 
